@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abyve
 - 👀 I’m interested in coding, book and music
-- 🌱 I’m currently learning symfony 5
+- 🌱 I’m currently coding in PHP and want to learn Symfony
 
 
 
